@@ -6,7 +6,7 @@
 
 - 💡 技术探索：使用  Gemini / Cursor 等 AI 工具提升开发效率
 - 👯 期待在开源社区中探索更多有意思东西
-
+-[myBlog](https://jins-blog-private.pages.dev/)
 ---
 
 ### 🛠️ 核心技术栈 (Tech Stack)
