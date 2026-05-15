@@ -30,6 +30,4 @@
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
 </p>
 
----
 
-<p align="center"><i>"Have you caught any 🦞 today?" <br></i></p>
